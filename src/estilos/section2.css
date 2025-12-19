@@ -1,0 +1,120 @@
+.section-2{
+  margin-top: 50px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 30px;
+  background-color: rgba(128, 128, 128, 0.052);
+  padding: 100px;
+}
+.detalhesSection2{
+  padding-top: 50px;
+  color: black;
+  
+}
+
+.detalhesSection2>h2{
+
+font-size: 35px;
+width: 430px;
+padding-bottom: 10px;
+}
+
+.detalhesSection2>ol>li{
+  margin-bottom: 10px;
+  font-weight: 100;
+  font-size: 12px;
+}
+
+
+
+.ArticleSection2{
+  /* padding-top: 20px; */
+  max-width: 900px;
+  margin: auto;
+  padding: 150px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.subSectionCenter{
+  padding-bottom: 30px;
+  margin-bottom: 20px;
+}
+.subSectionCenter>h2{
+  font-size: 35px;
+}
+.caixa{
+  text-align: center;
+  display: flex;
+  gap: 80px;
+  padding-top: 30px;
+  flex-direction: row;
+  align-items: center;  
+  
+  
+}
+
+
+
+
+.SelecPlano{
+  padding: 90px 70px 50px 70px;
+  border-radius: 10px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  
+  
+}
+
+.listaOferta>li{
+  font-weight: 200;
+  margin-bottom: 20px;
+}
+
+#box-Premium{
+  border: 1px solid orangered;
+}
+
+.precoCust{
+ padding-top: 20px;
+}
+
+.precoCust>button{
+  background-color: white;
+  border: 1px solid;
+  padding-left: 45px;
+  padding-right: 45px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-size: 13px;
+  color: #F53838;
+  border-radius: 20px;
+  
+}
+
+.precoCust>button:hover{
+  background-color: #F53838;
+  color: white;
+  transition: 300ms all ease-in-out;
+}
+
+#buttonPremium{
+  background-color: #F53838;
+  color: white;
+}
+
+#buttonPremium:hover{
+  background-color: rgb(232, 149, 32);
+  color: white;
+}
+
+.boxWithList{
+  display: flex;
+  flex-direction: column;
+}
+
+.lista-section-2{
+  margin-top: 10px;
+}

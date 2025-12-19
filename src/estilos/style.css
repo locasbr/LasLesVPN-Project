@@ -1,0 +1,43 @@
+*{
+ font-family: "Rubik", sans-serif;
+ font-weight: 800;
+ 
+ 
+}
+
+body{
+  background-color: white;
+}
+
+li{
+  list-style-type: none;
+}
+
+.subSectionCenter{
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center ;
+  align-items: center;
+  gap: 30px;
+}
+
+.subSectionCenter>h2{
+  font-size: 25px;
+  color: black;
+  font-weight: 500;
+  width: 400px;
+  padding-top: 20px;
+  
+}
+
+.subSectionCenter>p{
+  color: black;
+  font-weight: 200;
+  font-size: small;
+}
+
+.container{
+  max-width:1140px ;
+  margin: auto;
+}

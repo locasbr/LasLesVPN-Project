@@ -1,0 +1,48 @@
+.section4{
+  max-width: 900px;
+  margin: auto;
+}
+
+.card{
+  width: 400px;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center
+  ;align-items: center;
+}
+
+.subscribe {
+      max-width: 800px;
+      margin: 80px auto 0;
+     
+      border-radius: 12px;
+      padding: 40px;
+      box-shadow: 0 20px 50px rgba(0,0,0,0.1);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 20px;
+    }
+
+    .subscribe-text h3 {
+      font-size: 28px;
+      color: #0b132a;
+      margin: 0 0 10px;
+    }
+
+    .subscribe-text p {
+      color: #4f5665;
+      margin: 0;
+    }
+
+    .subscribe button {
+      background: #f53838;
+      color: white;
+      border: none;
+      padding: 12px 40px;
+      border-radius: 10px;
+      font-size: 16px;
+      cursor: pointer;
+    }

@@ -1,0 +1,64 @@
+main{
+  padding-top: 70px;
+  max-width: 1140px;
+  margin: auto;
+}
+
+.section1{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.section-title{
+  font-size: 46px;
+color: black;
+}
+
+.sectionParagrafo{
+  font-size: 12px;
+  font-weight: 100;
+  padding-bottom: 30px;
+  color: gray;
+}
+
+.section-button{
+  
+  background-color: #F53838;
+  padding: 20px 10px 20px 10px;
+  text-align: center  ;
+  width: 200px;
+  border-radius: 15px;
+  color: white;
+}
+
+.section-button:hover{
+  background-color: red;
+  transition: background-color 2s ;
+  cursor: pointer;
+}
+
+.article{
+  padding-top: 100px;
+  display: flex;
+max-width: 900px;
+margin: auto;
+justify-content: space-around;
+
+}
+
+.abbr{
+  display: inline-block;
+}
+
+.info-img> img{
+  background-color:  #f5383847;
+  border-radius: 50px;
+  padding: 10px;
+  margin-right: 10px;
+ 
+}
+
+
+
+
