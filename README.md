@@ -101,12 +101,13 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 ## 👨‍💻 Autor
 
-**Seu Nome**
-- LinkedIn: [Seu LinkedIn](https://linkedin.com/in/seu-perfil)
-- GitHub: [Seu GitHub](https://github.com/seu-usuario)
-- Portfólio: [Seu Site](https://seu-site.com)
+**Lucas Machado**
+- LinkedIn: [[Lucas Machado](https://www.linkedin.com/in/lucas-machado-356b68202/)]
+- GitHub: [locasbr]((https://github.com/locasbr))
+- Portfólio: [Vercel]((https://las-les-vpn-project-jse1.vercel.app/))
 
 ---
 
 ⭐ Se gostou do projeto, dê uma estrela no repositório!
+
 
